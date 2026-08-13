@@ -1,0 +1,5 @@
+CNN/image/test/
+CNN/.ipynb_checkpoints/
+CNN/__pycache__/
+CNN/.venv/
+CNN/venv/
